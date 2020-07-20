@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69e5bb97-c8d7-4062-92d3-f52a27f48440" name="Default Changelist" comment="" />
+    <list default="true" id="69e5bb97-c8d7-4062-92d3-f52a27f48440" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/DebugDemo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FakeStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/FakeStack.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,5 +41,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="527" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595244746014" />
+    <state x="852" y="270" key="FileChooserDialogImpl" timestamp="1595247467326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="852" y="270" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595247467326" />
+    <state x="455" y="149" key="new project wizard" timestamp="1595247491731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="149" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595247491731" />
   </component>
 </project>

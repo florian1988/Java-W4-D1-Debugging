@@ -60,5 +60,5 @@ class FakeStack {
       System.out.println("Value fetched: " + data);
   }
 
- 
+
 }
